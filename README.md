@@ -1,24 +1,9 @@
-# README
+# Shopify App Scaffold using Ruby on Rails + Webpack + ReactJS + Polaris
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Tech Stack
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Webpack
+2. ReactJS
+3. Polaris
+4. ShopifyApp
+5. ShopifyAPI
